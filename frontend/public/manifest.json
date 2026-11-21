@@ -1,0 +1,17 @@
+{
+  "name": "Hexo Elite AI",
+  "short_name": "Hexo Elite AI",
+  "description": "AI-Powered Regional Language Learning Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

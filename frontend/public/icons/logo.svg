@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#FFF7ED" stroke="#F97316" stroke-width="4"/>
+  <!-- Open Book Symbol -->
+  <path d="M50 72V38C43 32 30 33 22 36V70C30 67 43 66 50 72Z" fill="#EA580C" opacity="0.9"/>
+  <path d="M50 72V38C57 32 70 33 78 36V70C70 67 57 66 50 72Z" fill="#F97316"/>
+  <!-- Spark / AI Star on Top -->
+  <path d="M50 18L53 26L61 29L53 32L50 40L47 32L39 29L47 26L50 18Z" fill="#F59E0B"/>
+  <circle cx="34" cy="22" r="3" fill="#10B981"/>
+  <circle cx="66" cy="22" r="3" fill="#10B981"/>
+</svg>
